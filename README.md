@@ -8,9 +8,9 @@ I'm embarking on a new journey to maximize my potentials through modern technolo
 - LinkedIn [linkedin.com/in/motoki-kasai/][1]
 - Web [motokikasai.com][2]
 
-
+## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/motokikasai/motokikasai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motokikasai&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motokikasai&hide=java,html,ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/motokikasai/motokikasai">
