@@ -1,7 +1,18 @@
-### Hi there 👋
+Hi there 👋
+
+I'm a full-stack web developer from Japan 🇯🇵, thrilled to be part of the tech worldwide community and constantly learning new technologies and ideas 🌱.
+
+## 📫 Get in touch
+- LinkedIn [linkedin.com/in/motoki-kasai/][1]
+- Web [motokikasai.com][2]
+
+
+
+[1]: https://www.linkedin.com/in/motoki-kasai/
+[2]: https://motokikasai.com/
+
 
 <!--
-**motokikasai/motokikasai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
