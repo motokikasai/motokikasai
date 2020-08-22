@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm a full-stack web developer from Japan 🇯🇵, have worked in various countries (🇺🇸, 🇦🇷, 🇫🇷...) and now living in Germany 🇩🇪.
 
-I'm embarking on a new journey to maximize my potentials through modern technologies and constantly learning 🌱.
+I'm embarking on a new journey to maximize my potentials through modern technologies and enjoying learning every step of the way 🌱.
 
 ## 📫 Get in touch
 - LinkedIn [linkedin.com/in/motoki-kasai/][1]
