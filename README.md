@@ -10,7 +10,7 @@ I'm embarking on a new journey to maximize my potentials through modern technolo
 
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/motokikasai/motokikasai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motokikasai&hide=java,html,ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motokikasai&hide=java,html,ruby" />
 </a>
 
 <a href="https://github.com/motokikasai/motokikasai">
